@@ -1,0 +1,192 @@
+271|Aguirre Mamani Alex Ivan|aaguirre@beco.bancoestado.cl|aaguirre|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-05-22 12:01:17|0|4|3
+100|ALVAREZ ACORIA ALEXIS|aalvar50@beco.bancoestado.cl|aalvar50|a31dc6737342301ac24e6545a4cd4094|1|1|\N|2025-12-31|\N|60||\N|0|2|3
+101|CADIZ ROMERO ALVARO|acadiz50@beco.bancoestado.cl|acadiz50|1b8578e961582a614998850a7dcb7d25|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+102|CALFULEN IMBODEN ABEL ALFREDO .|acalfule@beco.bancoestado.cl|acalfule|9dea1171c67034a8850f32c06b29d2ae|1|1|Atji4p3W|2025-12-31|\N|60|\N|\N|0|\N|\N
+285|Gonzalez Gutierrez Alejandro Antonino|agonza51@beco.bancoestado.cl|agonza51|aad8f3ab87bc3d9278f332e3c97f01b3|1|20|\N|2025-12-31|\N|60|\N|2017-06-02 12:46:48|0|0|4
+292|Guerra Vega Andrés Eduardo|aguerr50@beco.bancoestado.cl|aguerr50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:54:01|0|25|3
+281|Lopez Medel Adolfo|alopez50@beco.bancoestado.cl|alopez50|8a8603168c032a203d656b5153480abc|1|2121|\N|2025-12-31|\N|60|\N|2017-05-31 17:04:32|0|\N|\N
+103|LOPEZ MUNOZ ALBERTO EDUARDO|alopez51@beco.bancoestado.cl|alopez51|4dfffbaf506d3aa6c060baed8e2e0b8a|1|1|\N|2025-12-31|358935070555185|60||\N|0|33|2
+104|OCHOA OCHOA ABEL .|aochoa50@beco.bancoestado.cl|aochoa50|2626bafad5278e4d6e40fb480284923d|1|1|\N|2025-12-31|\N|60|\N|\N|0|4|3
+105|PADILLA BUSTOS ALEXIS .|apadil50@beco.bancoestado.cl|apadil50|95ee6b90bff5528ee87f8dde1436de68|1|1|\N|2025-12-31|\N|60|\N|\N|0|23|2
+106|PALACIOS QUIROZ AUGUSTO ALEJANDRO|apalac50@beco.bancoestado.cl|apalac50|7e8856d53d7b0915ad0f36bd9eba50c7|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+107|ROJAS CONAJAGUA ALEX NICOLAS .|arojas51@beco.bancoestado.cl|arojas51|cb49be7c166a04d2c652f7d7b8cde4b7|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+108|SALAZAR BUTT ALEX FERNANDO|asalaz50@beco.bancoestado.cl|asalaz50|a2c1523235d076dcf39b62447c7f3fea|1|1|\N|2025-12-31|\N|60|\N|\N|0|16|3
+109|SAN MARTIN SARABIA ALIRO|asanma50@beco.bancoestado.cl|asanma50|d99ac42cfa15bdc5fda79c216e8f9d2f|1|1|\N|2025-12-31|\N|60|\N|\N|0|37|1
+302|Alvaro Vergara Vasquez|avergar7@beco.bancoestado.cl|avergar7|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:01:33|0|37|1
+110|FARIAS ARAVENA BORIS GABRIEL .|bfaria50@beco.bancoestado.cl|bfaria50|1941000879972f7c3ac2770b517cd3f7|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+111|LEFIO QUINONES BERTA DEL CARME N|blefio50@beco.bancoestado.cl|blefio50|3f8089a7c3123c77e832c1d88514035c|1|1|\N|2025-12-31|\N|60|\N|\N|0|35|1
+112|MUNOZ ARAYA BERTA DE LOURDES|bmunoz50@beco.bancoestado.cl|bmunoz50|9c1f9cb3849ce4e02c25aafff1f474fc|1|10|\N|2025-12-31|\N|60|\N|\N|0|20|4
+1|SEBASTIÁN LOYOLA|sloyolam@qdos.cl|BOB|c2d628ba98ed491776c9335e988e2e3b|1|2121|\N|2020-01-01|\N|60|\N|\N|0|\N|\N
+314|Pezzo Burgos Barbara Paola|bpezzo50@beco.bancoestado.cl|bpezzo50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:11:48|0|11|4
+113|CAVIERES MARTINEZ CAMILO|ccavie50@beco.bancoestado.cl|ccavie50|9cab5b1363d9720d9db315505ff4b929|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+114|CONTRERAS MUNOZ CARLOTA|ccontr50@beco.bancoestado.cl|ccontr50|82af650bc4fef4b979be9ca38de1e9be|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+115|CUETO ARAYA CARLOS|ccueto50@beco.bancoestado.cl|ccueto50|31e4c72c101edf326f86c8558f09a724|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+116|GALINDO GALLARDO CESAR MAURICI O|cgalin50@beco.bancoestado.cl|cgalin50|422344f8880f2b8654130e1f96898240|1|1|\N|2025-12-31|\N|60|\N|\N|0|27|4
+117|JIMENEZ CANALES CARLOS|cjimen50@beco.bancoestado.cl|cjimen50|a93746840fee5507fb63629e853a45f7|1|1|\N|2025-12-31|\N|60|\N|\N|0|0|0
+291|Malebran Castillo Carlos|cmaleb50@beco.bancoestado.cl|cmaleb50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:53:50|0|16|3
+118|MERCADO COFRE CRISTIAN|cmerca50@beco.bancoestado.cl|cmerca50|a83bd556ed8ef8dbcca87d04d8222d6b|1|1|\N|2025-12-31|\N|60|\N|\N|0|11|4
+119|MIRANDA RIQUEROS CESAR AUGUSTO|cmirand5@beco.bancoestado.cl|cmirand5|b6dc0032c4aa0107a4a7983e9bc27de1|1|1|\N|2025-12-31|\N|60|\N|\N|0|30|1
+120|OSORIO GIL CARMEN|cosori50@beco.bancoestado.cl|cosori50|709636962a21e98c64be388810778aea|1|1|\N|2025-12-31|\N|60|\N|\N|0|34|3
+121|RIFFO LINCO CLAUDIO|criffo50@beco.bancoestado.cl|criffo50|61b38796ae88a32df7a78c06fd1de54c|1|1|\N|2025-12-31|\N|60|\N|\N|0|24|4
+122|RODRIGUEZ GUTIERREZ CARLOS ALE JANDRO|crodri53@beco.bancoestado.cl|crodri53|ec8bc1dcaa760b0642858541612fd485|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+123|ROJAS VALDES CESAR|crojas50@beco.bancoestado.cl|crojas50|b0b87987520752929d732e91ea54ffbc|1|1|\N|2025-12-31|\N|60|\N|\N|0|25|3
+296|Soto Duran Carmen Lucia|csoto50@beco.bancoestado.cl|csoto50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:56:22|0|41|1
+272|Yañez Andrade Carolina Lidia|cyanez50@beco.bancoestado.cl|cyanez50|8061b6b5c43183c27cc0a3bc432c74d5|1|20|\N|2025-12-31|\N|60|\N|2017-05-22 12:04:04|0|0|3
+301|Aguilera Alarcon Denise Haydee|daguil50@beco.bancoestado.cl|daguil50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:01:17|0|12|1
+124|MADRID DIONISIO|dmadri50@beco.bancoestado.cl|dmadri50|86b03a595df77a39be42db9699d628db|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+125|MELLA HERNANDEZ DANIEL ENRIQUE|dmella2@beco.bancoestado.cl|dmella2|54190e7320d26cb788a538876c5b866f|1|1|\N|2025-12-31|\N|60|\N|\N|0|39|4
+126|RETAMAL ROSALES DIEGO|dretam50@beco.bancoestado.cl|dretam50|5994059b2dc77cfc1b0dddd17ee45e29|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+127|FUENZALIDA MADRID ELADIO RODRIGO|efuenz50@beco.bancoestado.cl|efuenz50|50d8ca7a3c494123471f26154f90d947|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+128|GOMEZ MEZA EDUARDO .|egomez51@beco.bancoestado.cl|egomez51|8ea8f7045d02e7d9fc8893f0c82cffa4|1|1|\N|2025-12-31|\N|60|\N|\N|0|26|2
+129|LEIVA SILVA EDUARDO|eleiva50@beco.bancoestado.cl|eleiva50|67d4a2f49a8dd70f5260e262b058bf80|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+130|LUDUENA MUNOZ EVARISTO ANDRES .|eludue50@beco.bancoestado.cl|eludue50|450db7d30b9be0d742b1c39f35065e46|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+312|Maldonado Kramm Erwin Juan|emaldo50@beco.bancoestado.cl|emaldo50|1494453b642e21de395ab5b5b057d505|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:11:05|0|24|4
+238|Morales Cueto Edith Del Pilar|emoral50@beco.bancoestado.cl|emoral50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-04-11 15:57:59|0|33|2
+317|Rildaranzon Ribic Enzo Enrico|erilda50@beco.bancoestado.cl|erilda50|3147247e4916c83a74218fc9ba6d0a8a|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:13:55|0|33|2
+131|ROMAN ILLANES EDUARDO|eroman50@beco.bancoestado.cl|eroman50|9babd035f6ec3a3056a70330dd2be4ee|1|1|\N|2025-12-31|\N|60|\N|\N|0|23|2
+132|UGARTE ALARCON EDUARDO ANTONIO .|eugart50@beco.bancoestado.cl|eugart50|848002868ce2127fdbbb8c3a8628e879|1|1|\N|2025-12-31|\N|60|\N|\N|0|32|2
+294|Volta Sapiain Evelyn|evolta50@beco.bancoestado.cl|evolta50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:55:02|0|34|3
+133|YANEZ BARRIENTOS ELIANA VERONI CA|eyanez50@beco.bancoestado.cl|eyanez50|4a56b59ca095014800508d9f67a21630|1|1|\N|2025-12-31|\N|60|\N|\N|0|28|4
+322|Guzmán Arluciaga Francisco |fguzman4@beco.bancoestado.cl|fguzman4|17d81bfc83ccb76999a381abe9f28211|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:16:40|0|32|2
+320|Morales Espinoza Fernando |fmoral50@beco.bancoestado.cl|fmoral50|fc9200028974581c9c81ef0f0d5e0276|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:15:04|0|26|2
+318|Peña Valencia Francisco Esteban|fpena50@beco.bancoestado.cl|fpena50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:14:23|0|33|2
+237|Ramos Melendez Francisco Javier|framos50@beco.bancoestado.cl|framos50|9cbdc83e5c2f65c7d81d422c111a6072|1|20|\N|2025-12-31|\N|60|\N|2017-04-11 15:54:53|0|0|2
+58|Gerente 1|g1@test.cl|g1|81dc9bdb52d04dc20036dbd8313ed055|1|30|\N|2025-12-31|\N|60||2017-04-07 14:23:17|0|0|0
+59|Gerente 2|g2@test.cl|g2|81dc9bdb52d04dc20036dbd8313ed055|0|30|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+134|ARAVENA ORTIZ GUILLERMO ANTONI O|garave50@beco.bancoestado.cl|garave50|c58f570fb9234f5a0528c8cb2402716f|1|1|\N|2025-12-31|\N|60|\N|\N|0|9|4
+135|CASTRO ROMAN GUSTAVO|gcastr50@beco.bancoestado.cl|gcastr50|3b0ba1d74363559caa7bb6e932bb70fa|1|1|\N|2025-12-31|\N|60|\N|\N|0|12|1
+136|CONEJEROS RIFFO GERARDO ANTONI O|gconej50@beco.bancoestado.cl|gconej50|81dc9bdb52d04dc20036dbd8313ed055|1|1|\N|2025-12-31|\N|60|\N|\N|0|23|2
+137|CONTRERAS MORAGA GONZALO HERNA N|gcontr50@beco.bancoestado.cl|gcontr50|60bc1ee270ab224e9a7bf2ff86915115|1|1|\N|2025-12-31|\N|60|\N|\N|0|19|2
+298|Cruz Imbert Gabriela Leandra|gcruz50@beco.bancoestado.cl|gcruz50|afd5c27415fe9501a0fbf864246a4bbe|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:57:16|0|31|1
+138|DELGADO CONCHA GUILLERMO ENRIQ UE|gdelga50@beco.bancoestado.cl|gdelga50|c0029de2ee4470ab6479470d984e236d|1|1|\N|2025-12-31|\N|60|\N|\N|0|9|4
+139|DELGADO CARMONA GLORIA ELIZABE TH|gdelgado@beco.bancoestado.cl|gdelgado|58fe05cef9a0c2dbdefde4041a42e8c5|1|1|\N|2025-12-31|\N|60|\N|\N|0|10|3
+140|ESPOZ GONZALEZ GONZALO MAURICI O|gespoz50@beco.bancoestado.cl|gespoz50|6ead7271f26cc3ba317b80fbf30a68e9|1|1|\N|2025-12-31|\N|60||\N|0|23|2
+141|HANSEN INZUNZA VA GERHART|ghanse50@beco.bancoestado.cl|ghanse50|70a8983c47e45b26c79d8611b0f94094|1|1|\N|2025-12-31|\N|60|\N|\N|0|40|4
+142|MADRID SILVA GUILLERMO .|gmadri50@beco.bancoestado.cl|gmadri50|01a2012a76d4d47f6bb7368db0dcc405|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+143|MARDONES BARRA GUILLERMO .|gmardo50@beco.bancoestado.cl|gmardo50|86ccecaa7fc67f926585159518c3175a|1|1|\N|2025-12-31|\N|60|\N|\N|0|26|2
+144|NAVARRETE MARABOLI GEMITA MARI A|gnavar50@beco.bancoestado.cl|gnavar50|4a148101cc63d6f85de56d958c07c2d7|1|1|\N|2025-12-31|\N|60|\N|\N|0|8|1
+145|OPAZO FUENTES GUIDO|gopazo50@beco.bancoestado.cl|gopazo50|755f76d826688f1f03a732f088b787f0|1|1|\N|2025-12-31|\N|60|\N|\N|0|39|4
+146|SANCHEZ CASTRO GUILLERMO EDUAR DO|gsanch50@beco.bancoestado.cl|gsanch50|dbc46f68ad8fe1a569dac9cfaaf02ab5|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+147|GUILLERMO EFRAIN SILVA MARABOLI|gsilva51@beco.bancoestado.cl|gsilva51|08711693dafeda9a8375f42dab1b48a2|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+148|TOLEDO LUNA GLORIA DE LOS ANGE LES|gtoledo@beco.bancoestado.cl|gtoledo|bb9760e1c81adcb62d78c190664836dc|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+149|VASQUEZ BURDILES GUSTAVO|gvasqu50@beco.bancoestado.cl|gvasqu50|23274c934033c54309b939c2585d0eda|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+150|FUENTEALBA HERMOSILA HERIBERTO EDGARDO|hfuent50@beco.bancoestado.cl|hfuent50|04b18a87fc450480cd99f410b5303328|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+303|Gomez Cisternas Hector Enrique|hgomez50@beco.bancoestado.cl|hgomez50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:01:56|0|17|1
+306|Helmuth Jerez Cruces |hjerez50@beco.bancoestado.cl|hjerez50|913401db31c07d9476aee1a34683542e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:04:03|0|38|4
+151|SOTO VEGA HUGO .|hsoto50@beco.bancoestado.cl|hsoto50|ae080b17243b71b8d909d7b4b07375b5|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+287|Dibona Dibasto Ivonne Paola|idivon50@beco.bancoestado.cl|idivon50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:52:26|0|14|3
+152|REBOLLEDO LAGOS IVAN|irebol50@beco.bancoestado.cl|irebol50|ba3362708d60a2cb5c555f3a57e4ed59|1|1|\N|2025-12-31|\N|60||\N|0|1|4
+305|Aguillon Pavez Juan Emilio|jaguil50@beco.bancoestado.cl|jaguil50|c3289cc241d2c610961eb3d17fad0dbe|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:03:18|0|19|1
+3|Jaime Vargas L|jaime.vargas@qdos.cl|jaime.vargas|81dc9bdb52d04dc20036dbd8313ed055|1|2121|rrAfxVpn|\N|\N|60|\N|\N|0|0|0
+153|ALVAREZ VASQUEZ JUAN PEDRO|jalvar11@beco.bancoestado.cl|jalvar11|a1f5f7e322c5602c31f13adcbc42e6b4|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+304|Campos San Martin José Miguel|jcampos8@beco.bancoestado.cl|jcampos8|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:02:48|0|8|1
+311|Cerda Franco José |jcerda50@beco.bancoestado.cl|jcerda50|1c13c75f284440b91f46fbfd1f085374|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:10:40|0|40|4
+154|CRUZ ROJAS JORGE|jcruz50@beco.bancoestado.cl|jcruz50|d921fc7936a92d08f7cf12ab6cc393fa|1|1|\N|2025-12-31|\N|60|\N|\N|0|43|1
+155|DIAZ MARTINEZ JUAN CARLOS .|jdiaz24@beco.bancoestado.cl|jdiaz24|66a2e891b66e92e56f8598d994a590ad|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+156|DIAZ GONZALEZ JUAN .|jdiaz51@beco.bancoestado.cl|jdiaz51|4b59a115cbc6df8e997655bb9c7ee71a|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+157|DONAIRE ZUNIGA JOSE MAURICIO|jdonai50@beco.bancoestado.cl|jdonai50|8af9e5d050d15db3ee072eb4c2b8ff59|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+158|ESCALONA HERRERA JUAN MANUEL|jescal50@beco.bancoestado.cl|jescal50|ebd1bc06582c75dcb82cdc654a700a18|1|1|\N|2025-12-31|\N|60|\N|\N|0|37|1
+159|GARRIDO VASQUEZ JOSE|jgarri50@beco.bancoestado.cl|jgarri50|b209ad1c39a88a8a720e8d5f8d9c5e54|1|1|\N|2025-12-31|\N|60|\N|\N|0|8|1
+160|HENRIQUEZ FIGUEROA JUAN EDUARD O|jhenri50@beco.bancoestado.cl|jhenri50|eebbd766ec2fb643578e08e23c059572|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+383|Juan Perez Perez (Prueba lmonta50)|jjperezp@beco.bancoestado.cl|jjperezp|bcbefd36fb4c5b5e243c040f6bb5abe7|0|1|\N|2025-12-31|\N|\N|\N|2017-08-02 15:21:00|0|33|2
+161|MANSILLA ORMENO JESSICA ANDREA|jmansil3@beco.bancoestado.cl|jmansil3|d1a4edee720a0883fe060fa14ddde359|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+162|MORENO MORAN JUAN DE DIOS .|jmoren50@beco.bancoestado.cl|jmoren50|1db4e20b3c6c4a89b38b664f5fe37420|1|1|\N|2025-12-31|862124020108721|60||\N|0|21|2
+234|Juan Nuñez|jnunez@opengets.cl|jnunez|d41d8cd98f00b204e9800998ecf8427e|1|2121|\N|2025-12-31|\N|60|\N|2017-04-10 15:21:16|0|\N|\N
+2|Jorge Riffo|jorge.riffo@gmail.com|JORGE.RIFFO|81dc9bdb52d04dc20036dbd8313ed055|1|2121|\N|\N|\N|60|\N|\N|0|\N|\N
+163|ORTIZ DURAN JORGE|jortiz50@beco.bancoestado.cl|jortiz50|d3013bba69ab83eddfd0f5dc2cf987c1|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+164|PENA RIVEROS JOSE ROBERTO .|jpena1@beco.bancoestado.cl|jpena1|22b4d9bb7023b588eac8f677523b13b3|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+378|Juan Perez Perez (Prueba lmonta50)|jperez50@beco.bancoestado.cl|jperez50|ed5244f501963f24ed67b154f890f462|0|1|\N|2025-12-31|\N|\N|\N|2017-07-27 11:53:42|0|2|3
+165|ROJAS MORALES JACQUELINE ALICI A|jrojas51@beco.bancoestado.cl|jrojas51|ccbe9ad3697eabdde42d8ec2812fe5c8|1|1|\N|2025-12-31|\N|60|\N|\N|0|10|3
+166|SALAZAR HERNANDEZ JUAN CARLOS .|jsalaz50@beco.bancoestado.cl|jsalaz50|b2235413f5528d5aceb30e055534c432|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+309|Sandoval Vasquez Juan Carlos|jsando50@beco.bancoestado.cl|jsando50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:05:11|0|39|4
+167|TABILO DINAMARCA JEANNETTE SOL ANGE|jtabil50@beco.bancoestado.cl|jtabil50|b3f908fe6a7ee3e834dc810e3e0417f7|1|1|\N|2025-12-31|\N|60|\N|\N|0|5|3
+168|TORO ORELLANA JUAN LUIS|jtoro51@beco.bancoestado.cl|jtoro51|5a19618334cc07265e0f5206162e5ad6|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+169|ARANGUIZ ZAMORANO LUIS HERNAN|larang50@beco.bancoestado.cl|larang50|46b810b5410078bacb1ed73750dcb808|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+170|CAICHEO MENA LUIS ALBERTO .|lcaich50@beco.bancoestado.cl|lcaich50|a05a4516386e87acd2ec37f1db0edd7e|1|1|\N|2025-12-31|\N|60|\N|\N|0|29|3
+171|CUETO VILLARROEL LUIS GUILLERM O|lcueto50@beco.bancoestado.cl|lcueto50|54cd8c52cce3c974f24eccb2dd0486ba|1|1|\N|2025-12-31|\N|60|\N|\N|0|31|1
+172|FORTE ALIQUINTUI LEONARDO PATR ICIO|lforte50@beco.bancoestado.cl|lforte50|1112b920b89e037c0a00ec8a271c0a4e|1|1|\N|2025-12-31|\N|60|\N|\N|0|39|4
+173|FUENTES BARAHONA LUIS|lfuent50@beco.bancoestado.cl|lfuent50|6abb21b2b9726ba4bc4cdd748ab7d021|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+174|LARA YANEZ LUIS ALBERTO|llara50@beco.bancoestado.cl|llara50|32d4cb4b0807b0a1a414540554303314|1|1|\N|2025-12-31|\N|60|\N|\N|0|30|1
+175|MESA VELASQUEZ LEONEL EDUARDO .|lmesa50@beco.bancoestado.cl|lmesa50|3c336f0bfbff6c66cd0a596ad04f5935|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+338|Montaner Alvarez Luis Patricio|lmonta50@beco.bancoestado.cl|lmonta50|0d5e5c6801935bb6222effaa3411d8a5|1|40|\N|2025-12-31|\N|60|\N|2017-06-12 18:11:42|0|0|0
+176|RAMIREZ RAMIREZ LEONARDO .|lramir50@beco.bancoestado.cl|lramir50|844e4ace8dfc22a4b92234d4b5aa55b1|1|1|\N|2025-12-31|\N|60|\N|\N|0|26|2
+284|Trujillo Cofre Luis Alberto|ltruji50@beco.bancoestado.cl|ltruji50|d41d8cd98f00b204e9800998ecf8427e|1|20|\N|2025-12-31|\N|60|\N|2017-06-02 12:44:23|0|0|1
+337|Veliz Muñoz Luciano Enrique|lveliz1@beco.bancoestado.cl|lveliz1|a75dad1ec093dd4978f54cb0a97429b8|1|10|\N|2025-12-31|\N|60|\N|2017-06-12 11:05:29|0|33|2
+177|ALBORNOZ JORQUERA MODESTO ANDR ES|malbor50@beco.bancoestado.cl|malbor50|bd6e9a7fcba8f965e6a25b4afb4a3c75|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+178|BECERRA BRAVO MARCELO|mbecer50@beco.bancoestado.cl|mbecer50|c74257c4d7157fcffa7f3fda7fcfe9ff|1|1|\N|2025-12-31|\N|60||\N|0|33|2
+179|BECERRA ROBLES MIGUEL ANGEL|mbecerr2@beco.bancoestado.cl|mbecerr2|0e0adeea3c2c41220a6e9e5dfc3da64f|1|1|\N|2025-12-31|\N|60|\N|\N|0|8|1
+180|CAIPILLAN DIAZ MARCIA|mcaipi50@beco.bancoestado.cl|mcaipi50|9939c56c49236c413857354f0752520e|1|1|\N|2025-12-31|\N|60|\N|\N|0|7|4
+181|CARO SANCHEZ MARIA ELIZABETH|mcaro50@beco.bancoestado.cl|mcaro50|7f9cefc766a9c8a0def520c20725f9c9|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+326|GALARCE CACERES MARIA TERESA .|mgalarc2@beco.bancoestado.cl|mgalarc2|dfc94ba87316f5effb0fda481541a64c|1|1|\N|2025-12-31|\N|60|\N|2017-06-03 08:02:23|0|35|1
+256|GALARCE CACERES |mgalarce2@beco.bancoestado.cl|mgalarce2|6eb3aaa9aa26cab407bef7bf2abe79d0|1|1|\N|2025-12-31|\N|60|\N|2017-05-05 08:01:18|0|0|0
+182|GAMBOA VILLALOBOS MAXIMILIANO|mgambo50@beco.bancoestado.cl|mgambo50|89bf392383b4cbc9aaec76468e035eb3|1|1|\N|2025-12-31|\N|60|\N|\N|0|41|1
+183|GONZALEZ PEREZ MARCELO ROBERTO .|mgonza50@beco.bancoestado.cl|mgonza50|f1168b25e73bca4191fc1a2b94b23ef6|1|40|\N|2025-12-31|\N|60|\N|\N|0|0|0
+184|LORCA QUINTUPURRAY MIGUEL|mlorca50@beco.bancoestado.cl|mlorca50|ec601d0683e346047743cfdcb1106a9c|1|1|\N|2025-12-31|\N|60|\N|\N|0|24|4
+185|MANRIQUEZ MEZA MARCO EDUARDO .|mmanri51@beco.bancoestado.cl|mmanri51|91276a3fce2434076d10259511d3198c|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+186|MELLADO AEDO MARIO POLO|mmella50@beco.bancoestado.cl|mmella50|1b772439e58ac59f05459eca1607d559|1|1|\N|2025-12-31|\N|60|\N|\N|0|19|2
+187|MELLA VALDIVIA MARCIAL|mmella51@beco.bancoestado.cl|mmella51|6e895ed964e54b7483c62c1e441fbdb7|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+188|PARRA TARIFENO MIGUEL|mparra50@beco.bancoestado.cl|mparra50|db60cfac4dfe86a46a58480473cfcd6e|1|1|\N|2025-12-31|\N|60|\N|\N|0|2|3
+333|Parra Cornejo Maritza|mparra7@beco.bancoestado.cl|mparra7|4b434b35726c2c4391c56e7b79c0cbdc|1|2121|\N|2025-12-31|\N|60|\N|2017-06-08 10:25:41|0|\N|\N
+300|Pinto Baeza Marisol|mpinto51@beco.bancoestado.cl|mpinto51|3042436a2bedd8ed6e761b1713549bd5|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:00:59|0|35|1
+189|PINTO PAEZ MARTA ISABEL|mpinto9@beco.bancoestado.cl|mpinto9|46c4343c34eee795462b7769010af4b7|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+190|PORTA CASTILLO MARIO|mporta50@beco.bancoestado.cl|mporta50|7ae407aee171e65f4007264fb490aebb|1|1|\N|2025-12-31|\N|60|\N|\N|0|45|1
+191|REYES PEREZ MARCELO ALEJANDRO|mreyes52@beco.bancoestado.cl|mreyes52|7846247f2fd4a39ebcb26cb8a31af386|1|1|\N|2025-12-31|\N|60|\N|\N|0|7|4
+192|RODRIGUEZ ZUNIGA MARIO GUILLERMO|mrodri53@beco.bancoestado.cl|mrodri53|010dd43a6737acb718b234c870f8f8c8|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+193|ROJAS HERNANDEZ MARIO .|mrojas51@beco.bancoestado.cl|mrojas51|fee4941f8b0dcb0c936a0e64ef30907e|1|1|\N|2025-12-31|\N|60|\N|\N|0|37|1
+194|SOTO OTAROLA MARIO|msoto50@beco.bancoestado.cl|msoto50|b98a73dd9fca6fd80802ebaf5502f424|1|1|\N|2025-12-31|\N|60|\N|\N|0|38|4
+195|VERA ZAMORA MAURICIO ENRIQUE|mvera50@beco.bancoestado.cl|mvera50|ff6133d599a2dc0f426af4bfc57ed8ab|1|1|\N|2025-12-31|\N|60|\N|\N|0|29|3
+334|Zavala Ramirez Marisol Beatriz|mzavala1@beco.bancoestado.cl|mzavala1|8bb88e72362c9b6be23429ce16824143|1|2121|\N|2025-12-31|\N|60|\N|2017-06-08 10:26:25|0|\N|\N
+196|BUSTAMANTE FUENTES NELSON HERM AN|nbusta50@beco.bancoestado.cl|nbusta50|fd4efc807d567696fc99448bbb59bb3a|1|1|\N|2025-12-31|000000000000000|60|\N|\N|0|21|2
+197|DIAZ SAN JUAN NELSON|ndiaz4@beco.bancoestado.cl|ndiaz4|5063a75b6f6734c1025f355a7287c653|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+198|LILLO ORTIZ NELSON|nlillo50@beco.bancoestado.cl|nlillo50|bc0e5842d6c6c82a7f756a110460d079|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+199|ROBLEDO CARRIZO NICOLE SCARLET T|nroble50@beco.bancoestado.cl|nroble50|bdd7f9425f5f9589b5af6ece9b536e84|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+310|Villanueva Sepúlveda Nelson|nvillanu@beco.bancoestado.cl|nvillanu|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:05:28|0|1|4
+200|COSTAGLIOLA AGUILERA OSVALDO|ocosta50@beco.bancoestado.cl|ocosta50|3bb1c27d92c26a642169d4548af838fb|1|1|\N|2025-12-31|359771074345722|60|\N|\N|0|14|3
+201|RODRIGUEZ VELARDE OSCAR ARMANDO|orodri50@beco.bancoestado.cl|orodri50|827ccb0eea8a706c4c34a16891f84e7b|1|1|\N|2025-12-31|863316039180589|60||\N|0|33|2
+202|VILLARROEL ZENTENO OSCAR|ovilla50@beco.bancoestado.cl|ovilla50|1e84e529c951deff23bdc7c08fb11315|1|1|\N|2025-12-31|\N|60|\N|\N|0|20|4
+319|Albornoz Argandoña Pamela|palbor51@beco.bancoestado.cl|palbor51|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:14:41|0|21|2
+203|CASSONE LOPEZ PATRICIO MARCELO|pcasso50@beco.bancoestado.cl|pcasso50|1c78b06c341c0d667850c2ab98cb8e17|1|1|\N|2025-12-31|\N|60|\N|\N|0|21|2
+204|ESPINOZA MANCILLA PEDRO|pespin50@beco.bancoestado.cl|pespin50|10091a5ec1963c8598ec4aec429c2cbb|1|1|\N|2025-12-31|\N|60|\N|\N|0|16|3
+293|Maulen Fonseca Paula|pmaule50@beco.bancoestado.cl|pmaule50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:54:46|0|29|3
+288|Navea Pasten Paul|pnavea@beco.bancoestado.cl|pnavea|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:52:52|0|2|3
+205|PARRA PEDRO|pparra50@beco.bancoestado.cl|pparra50|9842f548b5fa9088e8ebf5ff0a95f19e|1|1|\N|2025-12-31|\N|60|\N|\N|0|0|0
+315|Pérez Carrera Patricio Eduardo |pperez50@beco.bancoestado.cl|pperez50|80645b41f591b916cbc1063de6016f62|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:12:13|0|28|4
+295|Jimenez Gonzalez Rosario|rjimen50@beco.bancoestado.cl|rjimen50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:55:19|0|43|1
+206|MALDONADO CORNEJO RODRIGO ALEX IS|rmaldo50@beco.bancoestado.cl|rmaldo50|aa57e3b7fe204b25da41519dfb3f5dae|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+313|Manel Andrade Rubén Mauricio |rmanel50@beco.bancoestado.cl|rmanel50|32ce92ebf0c411bf553a4188ca8cf1af|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:11:31|0|7|4
+207|PEREZ CAMANO RAUL FERNANDO|rperez51@beco.bancoestado.cl|rperez51|35c46dd5e17be5120ee8ecdd93c71c57|1|1|\N|2025-12-31|\N|60|\N|\N|0|41|1
+299|Perret Cartes Reinaldo|rperre50@beco.bancoestado.cl|rperre50|ced1841013e7cf0189e4cd065fe97f4c|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:00:36|0|30|1
+208|PONCE MACHUCA RAFAEL IGNACIO|rponce50@beco.bancoestado.cl|rponce50|749c21b3c7d6674ddd346abe670163b8|1|1|\N|2025-12-31|\N|60||\N|0|33|2
+236|Rivera Candia Raul Alfredo|rriver50@beco.bancoestado.cl|rriver50|72c51754d921f8fe8073a96cde8ccbc7|1|30|\N|2025-12-31|\N|60|\N|2017-04-11 15:53:30|0|\N|\N
+209|ROJAS SANTANDER RODRIGO ALBERTO|rrojas52@beco.bancoestado.cl|rrojas52|4dce8d13224bad303b2661c7a5b75d9e|1|1|\N|2025-12-31|\N|60|\N|\N|0|11|3
+210|SEPULVEDA GUTIERREZ RODRIGO JUAN|rsepul51@beco.bancoestado.cl|rsepul51|b62919022b76ac6486c713e5a0bd0fc9|1|1|\N|2025-12-31|\N|60|\N|\N|0|16|3
+211|ULLOA MUNOZ RAQUEL DE LAS MERC EDES|rulloa@beco.bancoestado.cl|rulloa|3877c83b56092047c81aaf4a6231e02c|1|1|\N|2025-12-31|\N|60|\N|\N|0|30|1
+249|VERDUGO YANEZ RICARDO ANTONIO .|rverdug2@beco.bancoestado.cl|rverdug2|6981ca7f326b76fd1f36bfddbd4ff18d|1|1|\N|2025-12-31|\N|60|\N|2017-04-26 08:01:25|0|17|1
+212|ZANNI GONZALEZ RAMON ENRIQUE|rzanni50@beco.bancoestado.cl|rzanni50|8923b389f75e8ec5c6a651a1412f62dc|1|1|\N|2025-12-31|\N|60|\N|\N|0|33|2
+213|ZEPEDA DIAZ RUBEN ALEXIS|rzeped51@beco.bancoestado.cl|rzeped51|6f5bb2356505e9b2533b5e576689f2d0|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+50|Supervisor 1|s1@test.cl|s1|81dc9bdb52d04dc20036dbd8313ed055|0|10|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+51|Supervisor 2|s2@test.cl|s2|81dc9bdb52d04dc20036dbd8313ed055|0|10|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+52|Supervisor 3|s3@test.cl|s3|81dc9bdb52d04dc20036dbd8313ed055|0|10|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+53|Supervisor 4|s4@test.cl|s4|81dc9bdb52d04dc20036dbd8313ed055|0|10|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+54|Supervisor 5|s5@test.cl|s5|81dc9bdb52d04dc20036dbd8313ed055|0|10|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+376|Accatino Cattaneo Stefano|saccatin@beco.bancoestado.cl|saccatin|7d1f22e032d94058271e8c4b25c3df3a|1|40|\N|2025-12-31|\N|\N|\N|2017-07-26 13:13:24|0|0|0
+214|AROS MACAYA SUSAN ALEJANDRA .|saros@beco.bancoestado.cl|saros|7bf509cc627a43930b8495bd20ed3603|1|1|\N|2025-12-31|\N|60|\N|\N|0|40|4
+215|BRAVO JANET SUSANA PAULINA|sbravo50@beco.bancoestado.cl|sbravo50|eda89c0400a21441fc51d4849cbaed2d|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+216|CORDERO SULOAGA SERGIO PATRICI O|scorde50@beco.bancoestado.cl|scorde50|5883c2ff7077021eb99d5ba86283e22b|1|1|\N|2025-12-31|\N|60|\N|\N|0|34|3
+289|Gonzalez Cuevas Susana Haydee|sgonza50@beco.bancoestado.cl|sgonza50|3ad9ad02bc9d58a5444a619254397639|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:53:09|0|5|3
+217|HORMAZABAL ABARCA SEBASTIAN .|shorma50@beco.bancoestado.cl|shorma50|1ef03f9844eb9b3eee0dd8e4285d6321|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+218|MEZA RIOS SAMUEL|smeza50@beco.bancoestado.cl|smeza50|e5eba3455b712027550100315d149333|1|1|\N|2025-12-31|\N|60|\N|\N|0|38|4
+219|MONSALVE LEZANA SAMUEL EDUARDO|smonsa50@beco.bancoestado.cl|smonsa50|5dc29e05b19e88981a0e40f82038d911|1|1|\N|2025-12-31|\N|60|\N|\N|0|21|2
+307|Parra Poblete Sergio|sparra3@beco.bancoestado.cl|sparra3|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:04:23|0|9|4
+220|Visitador Domiciliario BECO|TERRENO@beco.bancoestado.cl|TERRENO|805c00b9bb154d3be789d7ca765cf7cb|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+225|test|test@tes.com|test|098f6bcd4621d373cade4e832627b4f6|1|2121|\N|2025-12-31|\N|60|\N|2017-03-31 16:42:23|0|0|0
+221|ZEPEDA ARIAS TANIA|tzepeda@beco.bancoestado.cl|tzepeda|9c89a63091cb056a76aa34afcc6a480b|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+321|Olavarria Perez Victor|volava50@beco.bancoestado.cl|volava50|741950ce685f3ee0d3c3e5e035089b84|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 13:16:12|0|26|2
+297|Rojas Rivano Viviana|vrojas5@beco.bancoestado.cl|vrojas5|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:56:41|0|45|1
+290|Torres Maraboli Vicky|vtorre50@beco.bancoestado.cl|vtorre50|d41d8cd98f00b204e9800998ecf8427e|1|10|\N|2025-12-31|\N|60|\N|2017-06-02 12:53:27|0|10|3
+222|ZAMORANO MARDONES VICTOR .|vzamor50@beco.bancoestado.cl|vzamor50|8a8ce18eba07426cbf74a9540a7dce74|1|1|\N|2025-12-31|\N|60|\N|\N|0|26|2
+223|AGUILAR PACHECO WALTER|waguil50@beco.bancoestado.cl|waguil50|832882802507fb708d5e758074268018|1|1|\N|2025-12-31|\N|60||\N|0|27|4
+224|MADARIAGA GONZALEZ YUBITZA ANG ELINE|ymadar50@beco.bancoestado.cl|ymadar50|02f95e0ac07d0c56e85e8060d653adb4|1|1|\N|2025-12-31|\N|60|\N|\N|0|\N|\N
+55|Zona 1|z1@test.cl|z1|81dc9bdb52d04dc20036dbd8313ed055|0|20|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+56|Zona 2|z2@test.cl|z2|81dc9bdb52d04dc20036dbd8313ed055|0|20|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0
+57|Zona 3|z3@test.cl|z3|81dc9bdb52d04dc20036dbd8313ed055|0|20|\N|2025-12-31|\N|60|\N|2017-04-07 14:23:17|0|0|0

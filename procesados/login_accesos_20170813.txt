@@ -1,0 +1,7 @@
+1|Ejecutivo domiciliario|30|Ejecutivos domiciliarios
+10|Jefe Centro Gestión|50|Jefes Centro Gestión
+20|Jefe Zonal|40|Jefes Zonales
+30|Gerente|35|Gerentes
+40|Consultor|60|Consultores
+50|Auditor|70|Auditores
+2121|Administrador|1|Administradores
